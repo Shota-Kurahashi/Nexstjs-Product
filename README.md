@@ -6,6 +6,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ```
 git clone https://github.com/Shota-Kurahashi/Nexstjs-Product.git .
+git checkout fcb918f152486cdb899dcc4a7645e011155925a8
+rm -rf .git
+yarn
+```
+
+### REST API
+
+```
+git clone https://github.com/Shota-Kurahashi/Nexstjs-Product.git .
 git checkout 9d43eba411b8d2bcf68bddd32e34a0de0505d6ff
 rm -rf .git
 yarn
