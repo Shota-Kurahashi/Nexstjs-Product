@@ -8,7 +8,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 git clone https://github.com/Shota-Kurahashi/Nexstjs-Product.git .
 git checkout 9d43eba411b8d2bcf68bddd32e34a0de0505d6ff
 rm -rf .git
-
 ```
 
 ###　 Only Tailwind CSS
@@ -17,7 +16,6 @@ rm -rf .git
 git clone https://github.com/Shota-Kurahashi/Nexstjs-Product.git .
 git checkout bef2112bff9e1877a462ef36c614b7c800982b76
 rm -rf .git
-
 ```
 
 ## Getting Started
