@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## clone Folder
 
-### REST API
+### Mantine
 
 ```
 git clone https://github.com/Shota-Kurahashi/Nexstjs-Product.git .
