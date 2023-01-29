@@ -1,7 +1,6 @@
 # This Template is Next.js
 
 ## library
----
 
 1. Tailwind CSS 
 2. Mantine
