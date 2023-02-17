@@ -1,9 +1,9 @@
 import "../styles/tailwind.css";
-import type { AppProps } from "next/app";
-import { useState } from "react";
+import { MantineProvider } from "@mantine/core";
 import { QueryClientProvider } from "@tanstack/react-query";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
-import { MantineProvider } from "@mantine/core";
+import type { AppProps } from "next/app";
+import { useState } from "react";
 import queryClient from "../libs/queryClient";
 
 const App = ({ Component, pageProps }: AppProps) => {
